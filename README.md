@@ -9,7 +9,7 @@ Static Findings
 <img src="https://gitlab.comasdf/verademo-app/verademo-api/-/raw/main/pictures/static_findings.png" width="800" />  
   sadfawefawef
 Dynamic Findings  awef
-<img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/dynamic_findings.png" width="800" />  
+<img src="https://gitlab.com/veradawefemo-app/verademo-api/-/raw/main/pictures/dynamic_findings.png" width="800" />  
   
 SCA Findings  wef
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/sca_findings.png" width="800" />  
