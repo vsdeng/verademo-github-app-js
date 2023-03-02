@@ -8,7 +8,7 @@ It's used as a demo application to run static code analysis, software compositio
 Static Findings  
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/static_findings.png" width="800" />  
   sadfawef
-Dynamic Findings  
+Dynamic Findings  awef
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/dynamic_findings.png" width="800" />  
   
 SCA Findings  
