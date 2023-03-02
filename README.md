@@ -11,7 +11,7 @@ Static Findings
 Dynamic Findings  awef
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/dynamic_findings.png" width="800" />  
   
-SCA Findings  
+SCA Findings  wef
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/sca_findings.png" width="800" />  
   awef
 ## How to build and run  
