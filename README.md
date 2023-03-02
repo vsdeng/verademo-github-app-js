@@ -13,7 +13,7 @@ Dynamic Findings
   
 SCA Findings  
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/sca_findings.png" width="800" />  
-  
+  awef
 ## How to build and run  
 Simply clone this repo and run   
 ``npm install``   
