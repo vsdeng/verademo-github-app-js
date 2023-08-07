@@ -1,4 +1,3 @@
-<img src="https://help.veracode.com/internal/api/webapp/header/logo" width="200" /><br>  
   
 # Verademo API  
   
@@ -10,7 +9,7 @@ Static Findings
   
 Dynamic Findings  
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/dynamic_findings.png" width="800" />  
-  
+  awef
 SCA Findings  
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/sca_findings.png" width="800" />  
   
